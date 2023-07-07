@@ -1,1 +1,1 @@
-# Cloud-Computing---Monolithic-Application
+A monolithic application is an integrated, indivisible entity. Conversely, a microservices architecture disassembles it into multiple self-contained, smaller units. To illustrate, we have disintegrated a calculator's monolithic architecture into several microservices, like addition, subtraction, division, etc. These microservices employ restful APIs to interact with each other.
